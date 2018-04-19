@@ -1,8 +1,8 @@
 # JavaScript Conditonals
 
-In programming, logic is used to make decisions in code. Conditional statements give us the ability to run a piece of code or another depending on the conditional statement.
+## In programming, logic is used to make decisions in code. Conditional statements give us the ability to run a piece of code or another depending on the conditional statement.
 
-Below are conditional exercises to get you familiar with the concepts. Invoke your function and pass your arguments. Store the invoked function in a variable and console log the variable name.
+### Below are exercises to get familiar with conditionals. Remember to invoke your function and pass your arguments. Store the invoked function in a variable and console log the variable name.
 
 **1. GREATER THAN OR EQUAL TO**
 Create a function called `greaterThanOrEqualTo` with two parameters called `num1` and `num2`. Inside of the function write a conditional statement that checks if `num1` is greater than or equal to `num2`. If true, return `num1 + " is greater than or equal to " + num2`. Otherwise, return `num1 + " is NOT greater than or equal to " + num2`.
