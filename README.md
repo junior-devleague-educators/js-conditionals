@@ -1,6 +1,13 @@
 # JavaScript Conditonals
 
-## In programming, logic is used to make decisions in code. Conditional statements give us the ability to run a piece of code or another depending on the conditional statement.
+In programming, logic is used to make decisions in code. Conditional statements give us the ability to run a piece of code or another depending on the conditional statement.
+
+**Resources**
+* [Conditionals](https://www.w3schools.com/js/js_if_else.asp)
+* [Function Definitions](https://www.w3schools.com/js/js_function_definition.asp)
+* [Function Parameters](https://www.w3schools.com/js/js_function_parameters.asp)
+* [Function Invocation](https://www.w3schools.com/js/js_function_invocation.asp)
+
 
 ### Below are exercises to get familiar with conditionals. Remember to invoke your function and pass your arguments. Store the invoked function in a variable and console log the variable name.
 
